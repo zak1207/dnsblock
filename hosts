@@ -5,6 +5,7 @@
 0.0.0.0 discordapp.com
 0.0.0.0 discord.gg
 0.0.0.0 gamepass.com
+0.0.0.0 xboxlive.com
 
 0.0.0.0 0009.cdx.cedexis
 0.0.0.0 000c.cdx.cedexis
@@ -28,6 +29,7 @@
 0.0.0.0 accountinformation.roblox.com
 0.0.0.0 accountsettings.roblox.com
 0.0.0.0 ads.roblox.com
+0.0.0.0 anonymous.xboxlive.com
 0.0.0.0 api.arkoselabs.com
 0.0.0.0 api.roblox.com
 0.0.0.0 apis.rbxcdn.com
@@ -73,8 +75,10 @@
 0.0.0.0 cdn.onenote.net
 0.0.0.0 cdns.gigya.com
 0.0.0.0 chat.roblox.com
+0.0.0.0 chat.xboxlive.com
 0.0.0.0 clients6.youtube.com
 0.0.0.0 clientsettingscdn.roblox.com
+0.0.0.0 com.akadns.net
 0.0.0.0 com.akamaized.net
 0.0.0.0 com.edgekey.net
 0.0.0.0 com.edgesuite.net
@@ -86,6 +90,7 @@
 0.0.0.0 css.rbxcdn.edgesuite
 0.0.0.0 cssak.rbxcdn.com
 0.0.0.0 cssns1.rbxcdn.com
+0.0.0.0 device.auth.xboxlive
 0.0.0.0 disc801.prod.do
 0.0.0.0 disc801.prod.dodsp
 0.0.0.0 dl.delivery.mp
@@ -126,6 +131,7 @@
 0.0.0.0 globalredir.akadns.net
 0.0.0.0 gold.roblox.com
 0.0.0.0 groups.roblox.com
+0.0.0.0 heartbeat.xboxlive.com
 0.0.0.0 identrust.edgesuite.net
 0.0.0.0 images.rbxcdn.com
 0.0.0.0 images.rbxcdn.edgesuite
@@ -150,8 +156,11 @@
 0.0.0.0 media.discordapp.net
 0.0.0.0 metrics.roblox.com
 0.0.0.0 movavi.edgesuite.net
+0.0.0.0 mpsdshim.xboxlive.com
 0.0.0.0 net.globalredir.akadns
+0.0.0.0 notificationinbox.xboxlive.com
 0.0.0.0 notifications.roblox.com
+0.0.0.0 notify.xboxlive.com
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 peoplehub.xboxlive.com
 0.0.0.0 platinum.roblox.com
@@ -160,6 +169,7 @@
 0.0.0.0 privatemessages.roblox.com
 0.0.0.0 pulsar.roblox.com
 0.0.0.0 realtime.roblox.com
+0.0.0.0 rta.xboxlive.com
 0.0.0.0 shim.trafficmanager.net
 0.0.0.0 socialize.gigya.com
 0.0.0.0 ssl.adobe.com
@@ -197,6 +207,8 @@
 0.0.0.0 t7ns1.rbxcdn.com
 0.0.0.0 telemetry.roblox.com
 0.0.0.0 thumbnails.roblox.com
+0.0.0.0 title.auth.xboxlive
+0.0.0.0 title.mgt.xboxlive
 0.0.0.0 titlehub.xboxlive.com
 0.0.0.0 tools.avcdn.net
 0.0.0.0 tr.rbxcdn.com
@@ -204,11 +216,13 @@
 0.0.0.0 trak.rbxcdn.com
 0.0.0.0 translations.roblox.com
 0.0.0.0 twostepverification.roblox.com
-0.0.0.0 ui.l.google
 0.0.0.0 us1.gigya.com
+0.0.0.0 user.auth.xboxlive
 0.0.0.0 users.roblox.com
 0.0.0.0 w27.akamai.net
 0.0.0.0 web.roblox.com
 0.0.0.0 www.roblox.com
+0.0.0.0 www.xboxab.com
 0.0.0.0 www.youtube.com
-0.0.0.0 ytimg.l.google
+0.0.0.0 xblmessaging.xboxlive.com
+0.0.0.0 xsts.auth.xboxlive
