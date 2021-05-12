@@ -74,8 +74,6 @@
 0.0.0.0 a1993.g.akamai
 0.0.0.0 apis.rbxcdn.com
 0.0.0.0 armmf.adobe.com
-0.0.0.0 au.download.windowsupdate
-0.0.0.0 audownload.windowsupdate.nsatc
 0.0.0.0 c.edgekey.net
 0.0.0.0 c.edgesuite.net
 0.0.0.0 c0.rbxcdn.com
@@ -116,12 +114,10 @@
 0.0.0.0 css.rbxcdn.edgesuite
 0.0.0.0 cssak.rbxcdn.com
 0.0.0.0 cssns1.rbxcdn.com
-0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 delivery.mp.microsoft
 0.0.0.0 disc801.prod.do
 0.0.0.0 disc801.prod.dodsp
 0.0.0.0 dl.delivery.mp
-0.0.0.0 download.windowsupdate.com
 0.0.0.0 dsce9.akamaiedge.net
 0.0.0.0 dscg2.akamai.net
 0.0.0.0 dscg3.akamai.net
