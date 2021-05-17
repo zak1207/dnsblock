@@ -7,6 +7,8 @@
 0.0.0.0 gamepass.com
 0.0.0.0 xboxlive.com
 0.0.0.0 xbox.com
+0.0.0.0 www.gameloft.com
+0.0.0.0 gameloft.com
 
 0.0.0.0 0009.cdx.cedexis
 0.0.0.0 000c.cdx.cedexis
@@ -227,3 +229,28 @@
 0.0.0.0 www.youtube.com
 0.0.0.0 xblmessaging.xboxlive.com
 0.0.0.0 xsts.auth.xboxlive
+0.0.0.0 201205igp.gameloft.com
+0.0.0.0 a314.gameloft.com
+0.0.0.0 anubisfinder.gameloft.com
+0.0.0.0 arion.gameloft.com
+0.0.0.0 asa.gameloft.com
+0.0.0.0 etsv2.datalake.gameloft
+0.0.0.0 eve.gameloft.com
+0.0.0.0 fed.gameloft.com
+0.0.0.0 forum.gameloft.com
+0.0.0.0 fsg001.gameloft.com
+0.0.0.0 fsg002.gameloft.com
+0.0.0.0 fsg003.gameloft.com
+0.0.0.0 fsg004.gameloft.com
+0.0.0.0 gdid.gameloft.com
+0.0.0.0 hermes.gameloft.com
+0.0.0.0 igp06.gameloft.com
+0.0.0.0 iris.gameloft.com
+0.0.0.0 janus.gameloft.com
+0.0.0.0 media01.gameloft.com
+0.0.0.0 news.gameloft.com
+0.0.0.0 oct.gameloft.com
+0.0.0.0 olympus.gameloft.com
+0.0.0.0 osiris.gameloft.com
+0.0.0.0 sink.gameloft.com
+0.0.0.0 ssl.gameloft.com
